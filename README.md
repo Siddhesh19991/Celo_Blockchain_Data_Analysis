@@ -7,6 +7,7 @@ All the queries to get the relevant blockchain data were done using **SQL**.
 The dashboard provides insights into USDC and USDT tokens on the Celo Blockchain.
 
 **Thought process for the choice of datasets:**
+
 I was looking for data that tracks the “contract address” for each transaction because using this I could filter based on the 2 tokens. I was able to find the contract addresses for both the tokens from Celoscan. 
 And after I filter based on the contract address, I can get all the transactions based on it, and then use only those transactions and other relevant columns in the table to do the necessary analysis that I needed to create the dashboard.
 The “tokens_celo.transfers” and “erc20_celo.evt_transfer” datasets provided the information that I needed to do the analysis. 
