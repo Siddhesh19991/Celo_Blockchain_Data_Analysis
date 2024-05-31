@@ -14,7 +14,6 @@ The “tokens_celo.transfers” and “erc20_celo.evt_transfer” datasets provi
 
 **The key insights that I wanted to convey with this dashboard:**
 
-Key Insights: 
 - From the dashboard, we can see that the USDT supply is more than the USDC supply even though USDC was launched first. While the issuance of USDT was done in one transaction (70 million), new USDC has continuously been issued throughout its time span. There have also been frequent burns in USDC while in USDT there haven't been.
 - The total number of transactions done for USDC is more than USDT which makes sense since USDC was launched first but if you consider that USDT was launched around a month ago and it has already reached more than half the total transaction amount of USDC plus if you observe the “No. of transactions (USDT and USDC)” chart, we can see that USDT has already caught up to USDC in such a short timeframe.
 - Looking at the transaction volume for both, we can see a few outliers in volume on particular days, it would be interesting to explore them and understand where this high-valued amount is going and coming from.
