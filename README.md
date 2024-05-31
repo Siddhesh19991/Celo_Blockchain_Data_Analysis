@@ -35,7 +35,7 @@ Key Insights:
 - WITH ___ AS () -> To create multiple sub queries which made it easier to find the addresses that initiated the most transactions. Created separate subqueries for the count for each of the 2 tokens, then another subquery to combine the 2 tables.
 - COALESCE() -> Used this to ensure that even though there is no matching in 2 tables of USDT and USDC when joining, the output still includes all the rows from both tables. Needed this to get the addresses that initiated the most transactions for both the tokens. 
 
-**Additional interesting analysis that could be explored:** 
+**Additional analysis that could be explored:** 
 - Compare the usage of these 2 tokens with cUSD, CELO and other prominent tokens in the CELO Blockchain.
 - Get the total number of token holders for USDC and USDT over time.
 - Create inflow vs outflow amount of the 2 tokens from/to address. (If someone wants to see the flow of a token for a particular address)
