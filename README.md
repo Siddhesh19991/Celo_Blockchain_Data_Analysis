@@ -23,7 +23,7 @@ The “tokens_celo.transfers” and “erc20_celo.evt_transfer” datasets provi
 **How the above insights should impact business decisions:**
 - Looking at the rapid rise in the number of transactions for USDT given the short time frame compared to USDC indicates a stronger adoption of USDT so focusing more on supporting USDT-related services might make sense along with the fact that the supply of USDT is way more than USDC. But at the same time, the launch of these 2 tokens has happened only this year so there isnt enough data in my opinion to be very confident with this conclusion.
 - Further exploration of the outliers in the transaction volume could provide insights into where the money is flowing and what kind of projects they interact with. This could open up opportunities for collaboration with those projects to attract these high-value addresses i.e whalers and also get inspiration on the kind of features they are looking for by researching those projects.
-- Seeing that more than 50% of the supply for both the tokens is held by one address can raise concerns about centralization which is huge issue in the Blockchain space.
+- Seeing that more than 50% of the supply for both the tokens is held by one address can raise concerns about centralization which is a huge issue in the Blockchain space.
 - After finding out that USDC/CELO and USDT/CELO liquidity pools on Uniswap are the ones that initiated the most transactions for both the tokens. It makes sense to collaborate/intergate with these kind of projects that are regularly used by users. Further exploration in this direction can provide insights into other projects as well.
 
 
