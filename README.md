@@ -2,7 +2,7 @@
 
 The following dashboard was created via Dune Analytics: https://dune.com/sat12312/celo-usdt-usdc/3f4f7091-5ca0-4977-9827-20091dbf73a1
 
-All the queries to get the relevant blockchain data were done using **SQL**.
+All the queries to get the relevant blockchain data were done using **SQL**. You can view the SQL queries that I implemented in the above link. 
 
 The dashboard provides insights into USDC and USDT tokens on the Celo Blockchain.
 
